@@ -1,8 +1,5 @@
 streamlit
 tensorflow-cpu
-scikit-learn
-seaborn
-matplotlib
+streamlit-drawable-canvas
+opencv-python-headless
 numpy
-pandas
-#shap
